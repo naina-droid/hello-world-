@@ -1,2 +1,2 @@
-# hello-world-
-My First python program at Lu 
+# hello-world
+My First Python Program at Lu 
